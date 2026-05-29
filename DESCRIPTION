@@ -35,3 +35,4 @@ biocViews: GraphAndNetwork, Pathways, Network, Clustering,
     Classification
 RoxygenNote: 7.2.3
 Encoding: UTF-8
+Config/Bioconductor/UnsupportedPlatforms: windows
